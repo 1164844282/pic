@@ -1,4 +1,3 @@
 # pic
-## This is my personal bed
 
-**咕咚床图**
+**daoluans床图**
